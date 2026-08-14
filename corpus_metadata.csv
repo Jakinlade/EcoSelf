@@ -1,0 +1,70 @@
+﻿id,band,author,tradition,source,role,orientation
+INST-01-01,instrumental,Costanza et al.,Western environmental economics,"Costanza et al. (1997) 'The value of the world's ecosystem services and natural capital', Nature 387, 253-260",quant,
+INST-02-01,instrumental,Natural England,,Peatland Restoration Roadmap,quant,
+INST-02-02,instrumental,Natural England,,Peatland Restoration Roadmap,quant,
+INST-03-01,instrumental,TEEB,Western environmental economics,teebweb.org,quant,
+INST-03-02,instrumental,TEEB,Western environmental economics,Scientific and Economic Foundations Report,quant,
+INST-04-01,instrumental,Dasgupta (2021),Western economics,UK gov (open),quant,
+INST-04-02,instrumental,Dasgupta (2021),Western economics,UK gov (open),quant,
+INST-05-01,instrumental,Natural England,,The potential impact of pheasant releasing in ancient woodland,quant,
+INST-05-02,instrumental,Natural England,,The potential impact of pheasant releasing in ancient woodland,quant,
+INST-06-01,instrumental,United Nations,,Report of the Committee of Experts on Environmental Economic Accounting (2024),quant,
+INST-07-01,instrumental,IPCC AR6,Western climate science/policy,IPCC AR6 WGII SPM,quant,
+INST-07-02,instrumental,IPCC AR6,Western climate science/policy,IPCC AR6 WGII Technical Summary,quant,
+INST-08-01,instrumental,IPBES Global Assessment,,The global assessment report on  Biodiversity and Ecosystem Services,quant,
+INST-08-02,instrumental,IPBES Global Assessment,,The global assessment report on  Biodiversity and Ecosystem Services,quant,
+INST-09-01,instrumental,Unilever - Biodiversity report,,"Biodiversity, business and bees (2021)",quant,
+INST-10-01,instrumental,"UK Gov - Department for Environment, Food & Rural Affairs",,Environmental Improvement Plan 2023: Executive summary,quant,
+MID-01-01,middle,Ed Yong,US science journalism,"Who's the Cutest Little Dolphin, Is It You?  (The Atlantic)",quant,
+MID-01-02,middle,Ed Yong,US science journalism,The Atlantic,quant,
+MID-02-01,middle,Carl Zimmer,US science journalism,"How Bruce the Parrot Landed Atop the Pecking Order, Without a Beak - The New York Times",quant,
+MID-02-02,middle,Carl Zimmer,US science journalism,This Diminutive Reptile Plays Rock-Paper-Scissors - The New Yorker,quant,
+MID-03-01,middle,Elizabeth Kolbert,US literary science journalism,The New Yorker,quant,
+MID-03-02,middle,Elizabeth Kolbert,US literary science journalism,The New Yorker,quant,
+MID-04-01,middle,Emma Marris,US environmental journalism,The Salmon That Surprised Everyone - The New Yorker,quant,
+MID-04-02,middle,Emma Marris,US environmental journalism,Nature Doesn't Care Where a Species Is From - The New Yorker,quant,
+MID-05-01,middle,Severin Carrell,US science journalism,Call to phase out ‘inhumane’ guga hunt by working with Hebridean islanders (The Guardian),quant,
+MID-06-01,middle,Helen Macdonald,,H is for Hawk,quant,
+MID-06-02,middle,Helen Macdonald,,H is for Hawk,quant,
+MID-07-01,middle,Matthew Pearce,British environmental journalism,Big gains for little terns - The Guardian 'Age of Extinction',quant,
+MID-07-02,middle,Graham Readfearn,British environmental journalism,The fight to save Australia’s ‘incredibly captivating’ endangered spiny crayfish - (The Guardian),quant,
+MID-07-03,middle,Gloria Dickie,British environmental journalism,Bonobos enjoy pretend tea parties and chimps think rationally - The Guardian 'Age of Extinction',quant,
+MID-08-01,middle,John Drake,,Can ecosystems malfunction? - Aeon essays,quant,
+MID-08-02,middle,Carlos Santana,,Conservation's prejudice - Aeon essays,quant,
+MID-09-01,middle,Jack Lohmann,,Our phosphorescent world (Aeon.co),quant,
+MID-09-02,middle,Jack Lohmann,,Our phosphorescent world (Aeon.co),quant,
+MID-10-01,middle,David Farrier,,Should we edit nature? (Aeon.co),quant,
+MID-10-02,middle,David Farrier,,Should we edit nature? (Aeon.co),quant,
+DECUP-01-01,decoupled,Suzanne Simard,,The Scaffolding of Life: Cyclical Structures of a Forest - An Interview with Suzanne Simard (Emergence Magazine),quant,relational / expository
+DECUP-01-02,decoupled,Suzanne Simard,,The Scaffolding of Life: Cyclical Structures of a Forest - An Interview with Suzanne Simard (Emergence Magazine),quant,relational / expository
+DECUP-02-01,decoupled,Andreas Weber,,Enlivenment,quant,relational / expository
+DECUP-02-02,decoupled,Andreas Weber,,Enlivenment,quant,relational / expository
+DECUP-03-01,decoupled,Carl Safina,,Mutual Healing: Lessons Learned from an Orphaned Owl,quant,relational / expository
+DECUP-03-02,decoupled,Carl Safina,,Becoming Wild During a Pandemic (Orion Magazine),quant,relational / expository
+DECUP-04-01,decoupled,James Rebanks,,The Shepherd's Life,quant,instrumental / literary
+DECUP-04-02,decoupled,James Rebanks,,The Shepherd's Life,quant,instrumental / literary
+DECUP-05-01,decoupled,Theodore Roosevelt,,The Wilderness Hunter,quant,instrumental / literary
+DECUP-05-02,decoupled,Theodore Roosevelt,,The Wilderness Hunter,quant,instrumental / literary
+DECUP-06-01,decoupled,Izaak Walton,,The Complete Angler,quant,instrumental / literary
+DECUP-06-02,decoupled,Izaak Walton,,The Complete Angler,quant,instrumental / literary
+DECUP-07-01,decoupled,Ernest Hemingway,,Green Hills of Africa,quant,instrumental / literary
+DECUP-07-02,decoupled,Ernest Hemingway,,Green Hills of Africa,quant,instrumental / literary
+REL-01-01,relational,Robin Wall Kimmerer,Indigenous (Potawatomi) / TEK,Braiding Sweetgrass extract TBC,quant,
+REL-01-02,relational,Robin Wall Kimmerer,Indigenous (Potawatomi) / TEK,Speaking of Nature (Orion Magazine),quant,
+REL-02-01,relational,Bayo Akomolafe,Yoruba diaspora / process philosophy,These Wilds Beyond Our Fences extract TBC,quant,
+REL-02-02,relational,Bayo Akomolafe,Yoruba diaspora / process philosophy,These Wilds Beyond Our Fences extract TBC,quant,
+REL-03-01,relational,David Abram,Phenomenology / cultural ecology,Becoming Animal,quant,
+REL-03-02,relational,David Abram,Phenomenology / cultural ecology,Becoming Animal,quant,
+REL-04-01,relational,Robert Macfarlane,British New Nature Writing,Landmarks,quant,
+REL-04-02,relational,Robert Macfarlane,British New Nature Writing,The Old Ways,quant,
+REL-05-01,relational,Tyson Yunkaporta,Indigenous,Sand Talk,quant,
+REL-05-02,relational,Tyson Yunkaporta,Indigenous,Sand Talk,quant,
+REL-06-01,relational,J. Drew Lanham,,Birder to Birder (Emergence),quant,
+REL-06-02,relational,J. Drew Lanham,,Birder to Birder (Emergence),quant,
+REL-07-01,relational,Linda Hogan,Indigenous (Chickasaw),The Radiant Lives of Animals,quant,
+REL-07-02,relational,Linda Hogan,Indigenous (Chickasaw),Ancient Root (Emerge),quant,
+REL-08-01,relational,Terry Tempest Williams,,A Hollow Bone (Emerge),quant,
+REL-08-02,relational,Terry Tempest Williams,,A Hollow Bone (Emerge),quant,
+REL-09-01,relational,David George Haskell,,Wildflower Beauty and the Search for Home,quant,
+REL-09-02,relational,David George Haskell,,Wildflower Beauty and the Search for Home,quant,
+REL-10-01,relational,Aldo Leopold,,A Sand County Almanac,quant,

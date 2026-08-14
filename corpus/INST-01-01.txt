@@ -1,0 +1,76 @@
+Their value is infinite in total. However, it is meaningful to ask how changes in the quantity or
+quality of various types of natural capital and ecosystem services
+may have an impact on human welfare. Such changes include both
+small changes at large scales and large changes at small scales. For
+example, changing the gaseous composition of the global atmosphere by a small amount may have large-scale climate change
+effects that will affect the viability and welfare of global human
+populations. Large changes at small scales include, for example,
+dramatically changing local forest composition. These changes may
+dramatically alter terrestrial and aquatic ecosystems, having an
+impact on the benefits and costs of local human activities. In
+general, changes in particular forms of natural capital and ecosystem services will alter the costs or benefits of maintaining human
+welfare. Valuation of ecosystem services
+The issue of valuation is inseparable from the choices and decisions
+we have to make about ecological systems6,8. Some argue that
+valuation of ecosystems is either impossible or unwise, that we
+cannot place a value on such ‘intangibles’ as human life, environmental aesthetics, or long-term ecological benefits. But, in fact, we
+do so every day. When we set construction standards for highways,
+bridges and the like, we value human life (acknowledged or not)
+because spending more money on construction would save lives. Another frequent argument is that we should protect ecosystems for
+purely moral or aesthetic reasons, and we do not need valuations of
+ecosystems for this purpose. But there are equally compelling moral
+arguments that may be in direct conflict with the moral argument to
+protect ecosystems; for example, the moral argument that no one
+should go hungry. Moral arguments translate the valuation and
+decision problem into a different set of dimensions and a different
+language of discourse6
+; one that, in our view, makes the problem of
+valuation and choice more difficult and less explicit. But moral and
+economic arguments are certainly not mutually exclusive. Both
+discussions can and should go on in parallel. So, although ecosystem valuation is certainly difficult and fraught
+with uncertainties, one choice we do not have is whether or not to
+do it. Rather, the decisions we make as a society about ecosystems
+imply valuations (although not necessarily expressed in monetary
+terms). We can choose to make these valuations explicit or not; we
+can do them with an explicit acknowledgement of the huge
+uncertainties involved or not; but as long as we are forced to
+make choices, we are going through the process of valuation. The exercise of valuing the services of natural capital ‘at the
+margin’ consists of determining the differences that relatively small
+changes in these services make to human welfare. Changes in quality
+or quantity of ecosystem services have value insofar as they either
+change the benefits associated with human activities or change the
+costs of those activities. These changes in benefits and costs either
+have an impact on human welfare through established markets or
+through non-market activities. For example, coral reefs provide
+habitats for fish. One aspect of their value is to increase and
+concentrate fish stocks. One effect of changes in coral reef quality
+or quantity would be discernible in commercial fisheries markets, or
+in recreational fisheries. But other aspects of the value of coral reefs,
+such as recreational diving and biodiversity conservation, do not
+show up completely in markets. Forests provide timber materials
+through well established markets, but the associated habitat values
+of forests are also felt through unmarketed recreational activities. The chains of effects from ecosystem services to human welfare can
+range from extremely simple to exceedingly complex. Forests
+provide timber, but also hold soils and moisture, and create
+microclimates, all of which contribute to human welfare in complex, and generally non-marketed ways. Valuation methods
+Various methods have been used to estimate both the market and
+non-market components of the value of ecosystem services9–16. In
+this analysis, we synthesized previous studies based on a wide
+variety of methods, noting the limitations and assumptions underlying each. Many of the valuation techniques used in the studies covered in
+our synthesis are based, either directly or indirectly, on attempts to
+estimate the ‘willingness-to-pay’ of individuals for ecosystem services. For example, if ecological services provided a $50 increment
+to the timber productivity of a forest, then the beneficiaries of this
+service should be willing to pay up to $50 for it. In addition to
+timber production, if the forest offered non-marketed, aesthetic,
+existence, and conservation values of $70, those receiving this nonmarket benefit should be willing to pay up to $70 for it. The totalvalue of ecological services would be $120, but the contribution to
+the money economy of ecological services would be $50, the amount
+that actually passes through markets. In this study we have tried to
+estimate the total value of ecological services, regardless of whether
+they are currently marketed. Figure 1 shows some of these concepts diagrammatically. Figure
+1a shows conventional supply (marginal cost) and demand (marginal benefit) curves for a typical marketed good or service. The
+value that would show up in gross national product (GNP) is the
+market price p times the quantity q, or the area pbqc. There are three
+other relevant areas represented on the diagram, however. The cost
+of production is the area under the supply curve, cbq. The ‘producer
+surplus’ or ‘net rent’ for a resource is the area between the market
+price and the supply curve, pbc.

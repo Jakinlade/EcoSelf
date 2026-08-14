@@ -1,0 +1,70 @@
+id,band,orientation,author,source,word_count,Verb_noun_ratio,ActiveVoice_ratio,ExperienceAttribution,AgencyAttribution,SelfTranscendence,SelfTranscendence_awe,SelfTranscendence_gratitude,SelfTranscendence_admiration,SelfTranscendence_elevation,SelfTranscendence_hope,SelfTranscendence_general_inspiration,SelfTranscendence_full,Sensorimotor,Concreteness,EpistemicOpenness,lancaster_coverage,brysbaert_coverage
+DECUP-01-01,decoupled,relational / expository,Suzanne Simard,The Scaffolding of Life: Cyclical Structures of a Forest - An Interview with Suzanne Simard (Emergence Magazine),947,0.744,0.795,0.0,0.0,7.392,6.336,5.28,10.56,0.0,6.336,7.392,25.343,4.474,2.745,-19.007,0.971,0.971
+DECUP-01-02,decoupled,relational / expository,Suzanne Simard,The Scaffolding of Life: Cyclical Structures of a Forest - An Interview with Suzanne Simard (Emergence Magazine),1034,0.549,0.826,0.0,0.967,3.868,3.868,0.0,4.836,0.0,2.901,0.0,8.704,4.472,3.194,-9.671,0.95,0.95
+DECUP-02-01,decoupled,relational / expository,Andreas Weber,Enlivenment,948,0.396,0.795,0.0,1.055,4.219,3.165,2.11,6.329,1.055,13.713,6.329,28.481,4.566,2.681,-3.165,0.948,0.948
+DECUP-02-02,decoupled,relational / expository,Andreas Weber,Enlivenment,958,0.374,0.8,1.044,3.132,5.219,4.175,1.044,3.132,1.044,5.219,11.482,22.965,4.302,2.762,-1.044,0.947,0.947
+DECUP-03-01,decoupled,relational / expository,Carl Safina,Mutual Healing: Lessons Learned from an Orphaned Owl,940,0.803,0.908,1.064,7.447,8.511,6.383,2.128,6.383,3.191,21.277,2.128,32.979,4.618,3.277,11.702,0.968,0.968
+DECUP-03-02,decoupled,relational / expository,Carl Safina,Becoming Wild During a Pandemic (Orion Magazine),960,0.618,0.921,5.208,14.583,9.375,8.333,4.167,11.458,1.042,6.25,5.208,23.958,4.647,3.056,6.25,0.917,0.917
+DECUP-04-01,decoupled,instrumental / literary,James Rebanks,The Shepherd's Life,924,0.596,0.732,0.0,4.329,2.165,2.165,0.0,4.329,0.0,8.658,1.082,16.234,4.411,3.123,1.082,0.975,0.975
+DECUP-04-02,decoupled,instrumental / literary,James Rebanks,The Shepherd's Life,923,0.553,0.8,0.0,1.083,8.667,4.334,5.417,4.334,2.167,4.334,2.167,22.752,4.526,3.117,10.834,0.975,0.975
+DECUP-05-01,decoupled,instrumental / literary,Theodore Roosevelt,The Wilderness Hunter,945,0.272,0.759,1.058,8.466,9.524,9.524,1.058,8.466,1.058,3.175,1.058,14.815,4.438,3.484,-3.175,0.944,0.944
+DECUP-05-02,decoupled,instrumental / literary,Theodore Roosevelt,The Wilderness Hunter,1093,0.435,0.781,0.915,4.575,7.319,3.66,3.66,4.575,1.83,7.319,0.915,16.468,4.712,3.631,2.745,0.974,0.974
+DECUP-06-01,decoupled,instrumental / literary,Izaak Walton,The Complete Angler,965,0.583,0.64,1.036,5.181,1.036,1.036,0.0,2.073,1.036,12.435,0.0,17.617,4.564,3.36,-2.073,0.953,0.953
+DECUP-06-02,decoupled,instrumental / literary,Izaak Walton,The Complete Angler,914,0.536,0.607,0.0,2.188,6.565,2.188,4.376,5.47,6.565,12.035,1.094,25.164,4.604,3.425,-2.188,0.959,0.959
+DECUP-07-01,decoupled,instrumental / literary,Ernest Hemingway,Green Hills of Africa,994,1.13,0.933,0.0,2.012,9.054,4.024,5.03,3.018,5.03,7.042,2.012,17.103,4.846,3.458,1.006,0.969,0.969
+DECUP-07-02,decoupled,instrumental / literary,Ernest Hemingway,Green Hills of Africa,931,0.617,0.92,1.074,6.445,6.445,3.222,5.371,3.222,4.296,5.371,0.0,12.889,4.775,3.503,-2.148,0.982,0.982
+INST-01-01,instrumental,,Costanza et al.,"Costanza et al. (1997) 'The value of the world's ecosystem services and natural capital', Nature 387, 253-260",922,0.347,0.881,0.0,4.338,1.085,1.085,0.0,26.03,7.592,3.254,1.085,43.384,4.441,2.842,14.1,0.974,0.974
+INST-02-01,instrumental,,Natural England,Peatland Restoration Roadmap,954,0.398,0.562,0.0,0.0,4.193,2.096,2.096,3.145,4.193,20.964,5.241,30.398,4.309,2.935,12.579,0.912,0.912
+INST-02-02,instrumental,,Natural England,Peatland Restoration Roadmap,980,0.361,0.419,0.0,1.02,2.041,2.041,0.0,2.041,0.0,26.531,9.184,37.755,4.568,3.099,8.163,0.904,0.904
+INST-03-01,instrumental,,TEEB,teebweb.org,923,0.331,0.893,0.0,0.0,1.083,0.0,1.083,5.417,2.167,8.667,11.918,28.169,4.394,2.757,6.501,0.968,0.968
+INST-03-02,instrumental,,TEEB,Scientific and Economic Foundations Report,846,0.377,0.75,0.0,0.0,1.182,0.0,1.182,3.546,0.0,7.092,1.182,8.274,4.543,2.914,2.364,0.975,0.977
+INST-04-01,instrumental,,Dasgupta (2021),UK gov (open),925,0.548,0.838,0.0,0.0,2.162,1.081,2.162,4.324,0.0,16.216,6.486,27.027,4.283,2.729,6.486,0.983,0.983
+INST-04-02,instrumental,,Dasgupta (2021),UK gov (open),901,0.49,0.85,0.0,0.0,1.11,1.11,1.11,2.22,6.659,11.099,8.879,33.296,4.212,2.702,8.879,0.973,0.973
+INST-05-01,instrumental,,Natural England,The potential impact of pheasant releasing in ancient woodland,972,0.445,0.447,0.0,1.029,2.058,1.029,1.029,1.029,2.058,4.115,1.029,8.23,4.437,3.19,10.288,0.944,0.944
+INST-05-02,instrumental,,Natural England,The potential impact of pheasant releasing in ancient woodland,975,0.371,0.333,0.0,0.0,2.051,1.026,2.051,2.051,1.026,5.128,1.026,8.205,4.451,3.213,6.154,0.902,0.902
+INST-06-01,instrumental,,United Nations,Report of the Committee of Experts on Environmental Economic Accounting (2024),960,0.38,0.562,0.0,0.0,0.0,0.0,0.0,2.083,0.0,2.083,4.167,10.417,4.425,3.089,2.083,0.985,0.985
+INST-07-01,instrumental,,IPCC AR6,IPCC AR6 WGII SPM,978,0.233,0.791,1.022,0.0,0.0,0.0,0.0,0.0,3.067,34.765,6.135,43.967,4.555,2.948,4.09,0.97,0.97
+INST-07-02,instrumental,,IPCC AR6,IPCC AR6 WGII Technical Summary,1002,0.319,0.73,0.0,0.998,0.0,0.0,0.0,0.998,19.96,18.962,0.998,38.922,4.238,2.928,1.996,0.938,0.939
+INST-08-01,instrumental,,IPBES Global Assessment,The global assessment report on  Biodiversity and Ecosystem Services,959,0.392,0.71,0.0,0.0,3.128,3.128,0.0,8.342,2.086,11.47,20.855,51.095,4.274,2.668,4.171,0.951,0.951
+INST-08-02,instrumental,,IPBES Global Assessment,The global assessment report on  Biodiversity and Ecosystem Services,959,0.316,0.806,0.0,6.257,1.043,1.043,0.0,1.043,0.0,4.171,3.128,9.385,4.337,2.938,-16.684,0.959,0.959
+INST-09-01,instrumental,,Unilever - Biodiversity report,"Biodiversity, business and bees (2021)",941,0.47,0.902,0.0,4.251,1.063,0.0,1.063,4.251,1.063,11.69,5.313,22.317,4.46,3.254,1.063,0.983,0.983
+INST-10-01,instrumental,,"UK Gov - Department for Environment, Food & Rural Affairs",Environmental Improvement Plan 2023: Executive summary,911,0.622,0.941,0.0,0.0,2.195,2.195,0.0,9.879,6.586,30.735,3.293,48.299,4.495,3.007,-14.27,0.971,0.971
+MID-01-01,middle,,Ed Yong,"Who's the Cutest Little Dolphin, Is It You?  (The Atlantic)",820,0.615,0.848,4.878,8.537,3.659,3.659,0.0,3.659,1.22,4.878,6.098,20.732,4.782,3.249,12.195,0.975,0.975
+MID-01-02,middle,,Ed Yong,The Atlantic,1053,0.655,0.804,0.95,6.648,3.799,1.899,1.899,0.95,0.95,8.547,4.748,18.044,4.419,3.072,5.698,0.966,0.966
+MID-02-01,middle,,Carl Zimmer,"How Bruce the Parrot Landed Atop the Pecking Order, Without a Beak - The New York Times",1041,0.755,0.887,1.921,7.685,0.961,0.0,0.961,3.842,0.961,7.685,3.842,17.291,4.635,3.184,-3.842,0.959,0.959
+MID-02-02,middle,,Carl Zimmer,This Diminutive Reptile Plays Rock-Paper-Scissors - The New Yorker,941,0.622,0.918,0.0,10.627,3.188,2.125,1.063,6.376,2.125,2.125,1.063,11.69,4.557,3.255,15.94,0.985,0.985
+MID-03-01,middle,,Elizabeth Kolbert,The New Yorker,980,0.595,0.957,1.02,5.102,5.102,2.041,3.061,1.02,3.061,9.184,1.02,22.449,4.579,3.283,3.061,0.966,0.966
+MID-03-02,middle,,Elizabeth Kolbert,The New Yorker,1006,0.528,0.674,0.994,1.988,1.988,1.988,0.0,1.988,3.976,7.952,0.0,11.928,4.48,3.219,9.94,0.987,0.987
+MID-04-01,middle,,Emma Marris,The Salmon That Surprised Everyone - The New Yorker,827,0.609,0.781,1.209,13.301,2.418,1.209,1.209,4.837,1.209,8.464,2.418,18.138,4.448,3.128,18.138,0.975,0.975
+MID-04-02,middle,,Emma Marris,Nature Doesn't Care Where a Species Is From - The New Yorker,932,0.693,0.791,0.0,7.511,2.146,1.073,1.073,4.292,2.146,9.657,1.073,17.167,4.563,3.009,0.0,0.959,0.959
+MID-05-01,middle,,Severin Carrell,Call to phase out ‘inhumane’ guga hunt by working with Hebridean islanders (The Guardian),974,0.528,0.61,0.0,1.027,4.107,2.053,2.053,2.053,2.053,4.107,4.107,13.347,4.543,3.08,-1.027,0.921,0.921
+MID-06-01,middle,,Helen Macdonald,H is for Hawk,928,0.859,0.951,1.078,4.31,3.233,3.233,1.078,3.233,1.078,5.388,0.0,9.698,4.721,3.381,0.0,0.94,0.94
+MID-06-02,middle,,Helen Macdonald,H is for Hawk,855,0.747,0.912,0.0,5.848,4.678,0.0,4.678,1.17,0.0,10.526,3.509,14.035,4.775,3.458,0.0,0.955,0.955
+MID-07-01,middle,,Matthew Pearce,Big gains for little terns - The Guardian 'Age of Extinction',993,0.645,0.873,1.007,4.028,5.035,5.035,0.0,4.028,2.014,2.014,5.035,15.106,4.563,3.228,-3.021,0.934,0.934
+MID-07-02,middle,,Graham Readfearn,The fight to save Australia’s ‘incredibly captivating’ endangered spiny crayfish - (The Guardian),980,0.606,0.867,0.0,3.061,5.102,4.082,1.02,3.061,0.0,5.102,3.061,14.286,4.485,3.273,5.102,0.93,0.93
+MID-07-03,middle,,Gloria Dickie,Bonobos enjoy pretend tea parties and chimps think rationally - The Guardian 'Age of Extinction',934,0.55,0.957,6.424,3.212,9.636,8.565,1.071,9.636,3.212,18.201,3.212,36.403,4.477,2.943,9.636,0.968,0.968
+MID-08-01,middle,,John Drake,Can ecosystems malfunction? - Aeon essays,911,0.582,0.864,0.0,3.293,4.391,0.0,4.391,2.195,1.098,19.759,21.954,42.81,4.356,2.866,5.488,0.952,0.952
+MID-08-02,middle,,Carlos Santana,Conservation's prejudice - Aeon essays,931,0.529,0.581,0.0,0.0,1.074,0.0,1.074,2.148,0.0,6.445,4.296,11.815,4.293,2.877,8.593,0.943,0.945
+MID-09-01,middle,,Jack Lohmann,Our phosphorescent world (Aeon.co),924,0.42,0.885,0.0,5.411,4.329,3.247,1.082,4.329,2.165,5.411,4.329,14.069,4.598,3.339,4.329,0.952,0.952
+MID-09-02,middle,,Jack Lohmann,Our phosphorescent world (Aeon.co),974,0.552,0.828,0.0,9.24,0.0,0.0,0.0,3.08,0.0,9.24,5.133,19.507,4.523,3.389,6.16,0.97,0.97
+MID-10-01,middle,,David Farrier,Should we edit nature? (Aeon.co),984,0.45,0.848,0.0,2.033,5.081,4.065,1.016,6.098,0.0,8.13,5.081,21.341,4.467,3.089,14.228,0.946,0.946
+MID-10-02,middle,,David Farrier,Should we edit nature? (Aeon.co),956,0.589,0.911,0.0,0.0,2.092,2.092,0.0,2.092,2.092,10.46,4.184,23.013,4.427,2.932,25.105,0.954,0.954
+REL-01-01,relational,,Robin Wall Kimmerer,Braiding Sweetgrass extract TBC,940,0.619,0.923,2.128,0.0,3.191,3.191,1.064,6.383,0.0,6.383,2.128,18.085,4.549,2.972,-5.319,0.968,0.968
+REL-01-02,relational,,Robin Wall Kimmerer,Speaking of Nature (Orion Magazine),990,0.471,0.696,1.01,3.03,7.071,7.071,4.04,10.101,0.0,8.081,2.02,19.192,4.696,3.148,4.04,0.957,0.957
+REL-02-01,relational,,Bayo Akomolafe,These Wilds Beyond Our Fences extract TBC,939,0.652,0.982,1.065,7.455,7.455,3.195,4.26,4.26,3.195,6.39,0.0,23.429,4.883,3.557,8.52,0.967,0.967
+REL-02-02,relational,,Bayo Akomolafe,These Wilds Beyond Our Fences extract TBC,925,0.573,0.822,1.081,2.162,5.405,0.0,5.405,1.081,2.162,8.649,2.162,19.459,4.686,3.311,9.73,0.963,0.967
+REL-03-01,relational,,David Abram,Becoming Animal,931,0.64,0.903,1.074,6.445,7.519,5.371,3.222,4.296,3.222,3.222,10.741,24.705,4.65,3.297,8.593,0.96,0.96
+REL-03-02,relational,,David Abram,Becoming Animal,952,0.554,0.941,1.05,2.101,8.403,6.303,4.202,1.05,2.101,5.252,0.0,16.807,4.624,3.073,7.353,0.962,0.962
+REL-04-01,relational,,Robert Macfarlane,Landmarks,937,0.507,0.743,0.0,0.0,5.336,4.269,2.134,8.538,1.067,4.269,4.269,18.143,4.617,3.375,0.0,0.942,0.942
+REL-04-02,relational,,Robert Macfarlane,The Old Ways,951,0.427,0.881,1.052,3.155,7.361,5.258,2.103,9.464,1.052,6.309,2.103,21.03,4.558,3.364,-1.052,0.917,0.917
+REL-05-01,relational,,Tyson Yunkaporta,Sand Talk,969,0.634,0.944,0.0,7.224,8.256,2.064,6.192,0.0,4.128,8.256,11.352,21.672,5.132,3.672,11.352,0.99,0.99
+REL-05-02,relational,,Tyson Yunkaporta,Sand Talk,971,0.605,0.786,3.09,5.149,7.209,5.149,2.06,4.119,3.09,1.03,4.119,16.478,4.722,3.464,-29.866,0.968,0.968
+REL-06-01,relational,,J. Drew Lanham,Birder to Birder (Emergence),969,0.545,0.786,1.032,1.032,7.224,2.064,6.192,10.32,0.0,10.32,3.096,21.672,4.546,3.016,17.544,0.952,0.956
+REL-06-02,relational,,J. Drew Lanham,Birder to Birder (Emergence),926,0.69,0.857,0.0,2.16,19.438,12.959,12.959,25.918,2.16,14.039,5.4,45.356,4.563,2.976,-2.16,0.942,0.947
+REL-07-01,relational,,Linda Hogan,The Radiant Lives of Animals,994,0.725,0.815,1.006,4.024,10.06,5.03,5.03,6.036,1.006,6.036,0.0,18.109,4.734,3.258,-12.072,0.988,0.988
+REL-07-02,relational,,Linda Hogan,Ancient Root (Emerge),968,0.445,0.769,1.033,3.099,8.264,5.165,3.099,7.231,6.198,4.132,4.132,23.76,4.785,3.138,9.298,0.987,0.987
+REL-08-01,relational,,Terry Tempest Williams,A Hollow Bone (Emerge),984,0.418,0.816,0.0,0.0,3.049,3.049,2.033,3.049,3.049,1.016,3.049,10.163,4.589,3.44,1.016,0.955,0.955
+REL-08-02,relational,,Terry Tempest Williams,A Hollow Bone (Emerge),978,0.529,0.822,2.045,2.045,18.405,10.225,8.18,11.247,3.067,14.315,5.112,35.787,4.795,3.296,-6.135,0.971,0.971
+REL-09-01,relational,,David George Haskell,Wildflower Beauty and the Search for Home,919,0.493,0.921,5.441,18.498,2.176,2.176,0.0,3.264,4.353,14.146,1.088,21.763,4.715,3.549,2.176,0.977,0.977
+REL-09-02,relational,,David George Haskell,Wildflower Beauty and the Search for Home,977,0.491,0.875,2.047,25.589,7.165,3.071,4.094,4.094,4.094,10.235,19.447,38.895,4.566,3.464,5.118,0.956,0.956
+REL-10-01,relational,,Aldo Leopold,A Sand County Almanac,979,0.432,0.915,3.064,6.129,1.021,1.021,0.0,1.021,3.064,7.15,4.086,12.257,4.641,3.342,-5.107,0.96,0.96

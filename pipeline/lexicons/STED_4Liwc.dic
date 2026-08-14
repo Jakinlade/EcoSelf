@@ -1,0 +1,360 @@
+% 
+01	general
+02	awe
+03	gratitude
+04	elevation
+05	admiration
+06	hope
+% 
+
+acclaim*	05
+accomplish*	01
+achiev*	05	06
+acknowledg*	03
+admir*	02	03	05
+ador*	05
+adulat*	05
+advanc*	04
+aesthetic	02
+affection	03	05
+almighty	03
+amazing	02	05
+amazed	02	05
+ambition	05	06
+amplify	04
+anticipat*	06
+applau*	05
+appreciat*	03	05
+approbation	05
+approv*	05
+artist*	05
+ascen*	04
+aspir*	06
+assum*	06
+assur*	06
+astonish*	02
+at ease	06
+auspicious	06
+await	06
+awake*	02
+awe*	02	05
+beaut*	02	05
+belie*	06	
+belove*	03	05
+benevolen*	03
+bestow*	03
+better	01
+bless*	03
+bliss*	04
+bravery	05
+breathtak*	02
+bright	06
+brilliant	02
+broaden* 	01
+brought to tears	01
+buoyan*	06
+captivat*	02
+care	01
+caring	01
+challenging	01
+charisma*	01
+charit*	03
+charm*	05
+cheer*	06
+cherish	05	06
+christ*	02	03	05
+comfort*	06
+commend	05
+compassion*	03	04	06
+compelling	01
+compliment	05
+confiden*	06
+congratulat*	06
+conscious*	04
+constructive	01
+contemplat*	06
+content*	03	04	06
+count on	06
+courage*	02	05
+craftsmanship	01
+crazy about	05
+crazy for	05
+crazy over	05
+creation	04
+creativ*	01
+credit	03	05
+cultivate	01
+curable	06
+curiosity	02
+dedicat*	03	05
+delight*	02	03	04	05
+deliverance	06
+dependence	06
+deserv*	05
+desir*	05	06
+determinat*	01
+devot*	02	03	05
+digni*	04
+discover	05
+divin*	02	04
+donat*	03
+doubtless	06
+dream	06
+eager	06
+earn*	03
+elat*	01	04	06
+electrifying	01
+elevat*	04	06
+embolden*	06
+empower*	01
+emulat*	01
+enchant*	02
+encourag*	04	06
+endur*	06
+energ*	01
+engag*	02	04
+enhanc*	04
+enjoy*	05
+enkindle*	01
+enlight*	02
+enliven*	02
+enrapture	04
+enrich*	01
+entertain*	01
+enthrall*	01
+enthusias*	05	06
+envision*	06
+epic	01
+esteem*	02	03	05
+estimation	05
+eulog*	05
+evok*	02	05
+exalt*	04
+excellen*	05
+exception*	01
+excit*	02	04	05
+exemplary	01
+exhilarat*	04
+expand*	01
+expect*	06
+extraordinar*	01
+faith*	04	06
+fall for	05
+fancy	05
+fascinat*	02	05
+favor*	03	05	06
+fondness	05
+foresee	06
+foretell	06
+forgiv*	03
+fortify*	01
+fortitude	06
+fortun*	06
+forward	06
+freedom	06
+fulfill*	03
+fun*	01
+future	06
+gain	06
+gallant*	01
+galvanize	01
+genero*	03	04	05
+gift	03
+give rise to	01
+glory	04	06
+glorif*	05
+goal	06
+god*	02
+golden	06
+good	06
+goodness	03
+goosebump*	02
+grace	03
+grand*	02
+grat*	02	03	04	05
+great	02	05
+gripping	01
+groove	05
+grow*	06
+hail	05
+hallow*	05
+happiness	03
+happy	03
+heart*	01	03	06
+heaven*	04
+heighten	04
+help*	03	04
+hero*	05
+homage	05
+honesty	03
+honor*	03	05
+hope*	04	06
+hospitality	03
+humility	02	03
+ideal*	05	06
+idolatry	05
+idoliz*	05
+idyll*	06
+illuminat*	01
+imagin*	01
+imbue	01
+impress	01
+incentiv*	06
+incomprehens*	02
+indebt*	03
+infatuation	05
+inflame	01
+influen*	01
+infuse	01
+innovat*	01
+insight*	01
+inspir*	02	04	05	06
+instill*	06
+interest*	02	05
+intrigu*	01
+invigorat*	02
+joy*	05
+kind*	03	05
+laud*	05
+leader	01
+learn*	06
+lighthearted	06
+limitless	06
+look up to	05
+lord	02
+lov*	02	05
+loyal*	03	04	05
+magnific*	02	04	05
+majest*	02
+marvel*	05
+merit*	05
+mighty	02
+mind-bending	02
+mind-blowing	02
+mind-boggling	02
+mirac*	02	03
+moral*	04
+motivat*	01
+moving	04
+muse	01
+myst*	02
+newborn	06
+novel	01
+nurtur*	01
+obeisance	05
+oblig*	03
+open up	01
+opportunit*	06
+optimis*	06
+overcom*	06
+paradise	06
+passion*	05
+pay homage to	05
+perfect*	05	06
+persever*	06
+philanthrop*	01
+pleas*	03	04
+poetic*	01
+poise*	04
+positiv*	06
+power*	02
+prais*	02	03	05
+pray*	03
+prefer*	05
+prestig*	04
+priz*	05
+promis*	04	06
+prophesy	06
+prophet*	01
+propitious	06
+props	05
+prospect*	06
+purpos*	06
+pursuit	01
+raptur*	02
+reassur*	06
+recogn*	03	05
+recompense	03
+redeem	06
+redempt*	06
+refin*	01
+refresh*	01
+regain*	06
+regenerat*	01
+reinforce	01
+rejoic*	04
+reliance	06
+relish	05
+remark*	02	05
+repay	03
+reputation	05
+rescue*	03
+respect*	02	03	05
+responsive*	03
+restor*	06
+revel	03	05
+revelation	01
+rever*	02	03	05	06
+reward*	06
+rousing	01
+sacrific*	03
+sanguine*	06
+satisf*	03	04	06
+savor	05
+scenery	05
+secur*	06
+selfless*	03
+seren*	06
+shock*	02
+sincer*	03	05	06
+spark	01
+specta*	02
+spirit*	02	03	04
+splendid	05
+spur	01
+stimulat*	02	04
+strength*	04
+striv*	01
+stunning	02
+success*	01
+survive	06
+sweet on	05
+talent*	01
+tantalizing	01
+tender	04
+thank*	03
+think highly of	05
+thinker	01
+thoughtful	01
+thought-provoking	01
+thrill*	03
+touch*	04
+transform*	01
+tribute	03
+trigger*	01
+triumph	06
+trust*	06
+upbeat	06
+upgrad*	04
+uphold*	04
+uplift*	04	06
+utmost	05
+utopia*	06
+valiant	01
+valor	01
+valu*	05
+vast	05
+virtu*	03	05	06
+visionary	01
+vivid	01
+warm*	04
+whim	01
+wholehearted	06
+wild about	05
+wisdom	02	05
+wise		05
+wish	06
+wonder*	02	05
+worship*	02	05
+worthy	05
+youth*	06
